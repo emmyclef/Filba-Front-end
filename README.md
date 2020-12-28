@@ -7,7 +7,8 @@ In the project directory, you can run:
 ### for react application
 ### `npm start`
 
-###for server
+### for server
+
 
 ### `yarn start`
 
